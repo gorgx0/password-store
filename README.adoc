@@ -1,0 +1,5 @@
+= Java Password Manager
+
+== usage
+
+`mvn clean compile exec -Dexec.args="add"`
